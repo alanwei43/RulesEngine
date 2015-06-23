@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesEngine", "RulesEngine\RulesEngine.csproj", "{73D08B36-C75A-4717-8098-B15105C8C976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesEngine.Tests", "RulesEngine.Tests\RulesEngine.Tests.csproj", "{57FA98A1-348D-4742-B0AC-F2ECE4D68E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesEngine.Mvc", "RulesEngine.Mvc\RulesEngine.Mvc.csproj", "{F0362986-FD2B-491F-9949-31D8CC97DF26}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs18
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RulesEngine.Tests\\RulesEngine.Tests.csproj
+		SccProjectName1 = RulesEngine.Tests
+		SccLocalPath1 = RulesEngine.Tests
+		SccProjectUniqueName2 = RulesEngine\\RulesEngine.csproj
+		SccProjectName2 = RulesEngine
+		SccLocalPath2 = RulesEngine
+		SccProjectUniqueName3 = RulesEngine.Mvc\\RulesEngine.Mvc.csproj
+		SccProjectName3 = RulesEngine.Mvc
+		SccLocalPath3 = RulesEngine.Mvc
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D08B36-C75A-4717-8098-B15105C8C976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D08B36-C75A-4717-8098-B15105C8C976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D08B36-C75A-4717-8098-B15105C8C976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D08B36-C75A-4717-8098-B15105C8C976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FA98A1-348D-4742-B0AC-F2ECE4D68E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FA98A1-348D-4742-B0AC-F2ECE4D68E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FA98A1-348D-4742-B0AC-F2ECE4D68E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FA98A1-348D-4742-B0AC-F2ECE4D68E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0362986-FD2B-491F-9949-31D8CC97DF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0362986-FD2B-491F-9949-31D8CC97DF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0362986-FD2B-491F-9949-31D8CC97DF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0362986-FD2B-491F-9949-31D8CC97DF26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
