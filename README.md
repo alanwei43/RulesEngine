@@ -7,3 +7,5 @@ Nuget Address https://www.nuget.org/packages/athoma13.RulesEngine/
 Install
 
   Install-Package athoma13.RulesEngine
+
+## 2015-09-07 17:18:48 退回至 [2.1.x版本](http://rulesengine.codeplex.com/SourceControl/changeset/15657)
